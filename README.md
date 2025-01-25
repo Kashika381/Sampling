@@ -10,9 +10,9 @@ Creditcard_data.csv
 Key Steps
 Data Preprocessing: Load and clean the dataset.
 Class Imbalance Handling: Apply 5 different sampling techniques to balance the dataset:
-SMOTE, Random Undersampling, SMOTE + ENN, Random Oversampling, NearMiss
+SMOTE, Random Undersampling, Tomek, Random Oversampling, NearMiss
 Model Training: Train 5 machine learning models:
-Random Forest, Logistic Regression, Gradient Boosting, AdaBoost, Support Vector Machine (SVM)
+Random Forest, Logistic Regression, Gradient Boosting, SVM, knn
 Model Evaluation: Compare the accuracy of models with different sampling techniques.
 Results: Visualize and analyze the accuracy of each combination.
 
